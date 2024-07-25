@@ -1,0 +1,9 @@
+body{
+  
+    background: linear-gradient(to right, #f2edaf, #ece871);  
+    font-family: ui-monospace;
+}
+.Dulces{ border: 20px solid tan;}
+.texto-centrado{
+    text-align: center;
+}
